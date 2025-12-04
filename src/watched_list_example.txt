@@ -1,0 +1,18 @@
+Airplane!,1980,8.0,Comedy,I picked the wrong week to stop sniffing glue
+Alien,1979,7.0,Horror Sci-Fi,
+Aliens,1986,8.0,Action Adventure Horror,
+Balls of Fury,2007,7.0,Comedy Crime Sport,Tell your grandma to pull the car around
+Batman and Robin,1949,7.0,Action Adventure Family,
+Blazing Saddles,1974,7.0,Comedy Western,
+Hot Shots!,1991,8.0,Action Comedy,
+Monty Python and the Holy Grail,1975,9.0,Adventure Comedy Fantasy,absolute cinema. Only imperfection is the ending.
+Monty Python's Life of Brian,1979,7.0,Comedy,Biggus... Dickus...
+My Chemical Romance: Life on the Murder Scene,2006,7.0,Documentary,
+Ponyo,2008,8.0,Adventure Animation Comedy,ponyo
+Shrek,2001,7.0,Adventure Animation Comedy,
+Spaceballs,1987,9.0,Adventure Comedy Sci-Fi,THEYVE GONE TO PLAID!
+The Garden of Sinners: Paradox Spiral,2008,9.0,Action Animation Crime,confusing but really good
+The Lord of the Rings: The Fellowship of the Ring,2001,10.0,Adventure Drama Fantasy,its lotr.
+The Lord of the Rings: The Return of the King,2003,10.0,Adventure Drama Fantasy,its lotr.
+The Lord of the Rings: The Two Towers,2002,10.0,Adventure Drama Fantasy,its lotr.
+Your Name.,2016,10.0,Animation Drama Fantasy,peak.
